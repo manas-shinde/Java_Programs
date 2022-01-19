@@ -1,4 +1,4 @@
-package list;
+package LinkedList;
 
 import book.*;
 
