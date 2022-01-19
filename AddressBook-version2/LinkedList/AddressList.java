@@ -1,7 +1,7 @@
-package list;
+package LinkedList;
 
 import book.*;
-import list.*;
+import LinkedList.*;
 
 public class AddressList {
 
