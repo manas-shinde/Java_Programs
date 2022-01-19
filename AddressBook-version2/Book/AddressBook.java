@@ -1,5 +1,3 @@
-package book;
-
 /** The AddressBook program implements an application that
 * simply get address details and store in node 
 *then you can perform insert at end(append the node), print all nodes ,traverse next and prev node to  print that nodes
@@ -9,9 +7,11 @@ package book;
 * @version 2.0
 * @since   2022-01-17
 */
+package book;
+
 import java.io.*;
 import java.util.*;
-import list.*;
+import LinkedList.*;
 
 public class AddressBook {
 	public static void main(String[] args) throws Exception {
